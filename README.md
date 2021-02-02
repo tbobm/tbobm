@@ -1,14 +1,10 @@
 # Hi there
 
-@tbobm in a list:
-- an automation enthusiast
-- a DevOps Engineer
-- an Alumni and an I.T. teacher @ETNA
-- a Python Developper
+@tbobm in a list | Topics I'm interesed in
+------|------
+an automation enthusiast | Kubernetes
+a Cloud Native / DevOps Engineer | Cloud Engineering and automation
+an Alumni and an I.T. teacher [@ETNA](github.com/etna-alternance/) | IaC (Ansible, Terraform)
+a Python Developper | Site Reliability Engineering
 
-Currently working at @particule.
-
-Topics I'm interested in right now:
-- Kubernetes
-- Cloud Engineering and automation
-- IaC (Ansible, Terraform)
+Working at [@particule](https://github.com/particuleio).
