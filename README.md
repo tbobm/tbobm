@@ -1,6 +1,6 @@
 # Hi there
 
-@tbobm in a list | Topics I'm interesed in | What is on my Github
+@tbobm in a list | Topics I'm interested in | What is on my Github
 ------|------|------
 an automation enthusiast | Kubernetes | Some code ([payler](https://github.com/tbobm/payler), [odin](https://github.com/tbobm/odin), ...)
 a Cloud Native / DevOps Engineer | Cloud Engineering and automation | Infrastructure-related projets ([spe-clo5](https://github.com/tbobm/spe-clo5), [trail](https://github.com/tbobm/trail))
