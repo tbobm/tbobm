@@ -11,3 +11,5 @@ Working at [@particule](https://github.com/particuleio).
 
 [tbobm-terraform]: https://github.com/tbobm?tab=repositories&q=terraform
 [tbobm-ansible]: https://github.com/tbobm?tab=repositories&q=ansible
+
+![tbobm's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbobm&show_icons=true&theme=radical)
