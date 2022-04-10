@@ -2,13 +2,14 @@
 
 @tbobm in a list | Topics I'm interested in | What is on my Github
 ------|------|------
-an automation enthusiast | Kubernetes | Some code ([machinery][machinery], [payler][payler], [odin][odin], ...)
+an automation enthusiast | Kubernetes | Some code ([apps][apps], [machinery][machinery], [payler][payler], [odin][odin], ...)
 a Cloud Native / DevOps Engineer | Cloud Engineering and automation | Infrastructure-related projets ([spe-clo5][spe-clo5], [trail][trail])
 an Alumni and an I.T. teacher [@ETNA](https://github.com/etna-alternance/) | IaC ([Ansible][tbobm-ansible], [Terraform][tbobm-terraform]) | Some of the tools I wrote during my student years ([etnawrapper][etnawrapper], [shout][shout])
 a Python Developper | Site Reliability Engineering | And a lot of unfinished projects that I should work on or archive
 
 Working at [@particule](https://github.com/particuleio).
 
+[apps]: https://github.com/tbobm/apps
 [machinery]: https://github.com/tbobm/machinery
 [payler]: https://github.com/tbobm/payler
 [odin]: https://github.com/tbobm/odin
