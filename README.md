@@ -7,7 +7,7 @@ a Cloud Native / DevOps Engineer | Cloud Engineering and automation | infrastruc
 an Alumni and an I.T. teacher [@ETNA](https://github.com/etna-alternance/) | IaC ([Ansible][tbobm-ansible], [Terraform][tbobm-terraform]) | some of the tools I wrote during my student years ([etnawrapper][etnawrapper], [shout][shout])
 a Python Developper | Site Reliability and Platform Engineering | and a lot of unfinished projects that I should work on or archive
 
-Working at [@meero](https://github.com/meero-com).
+Working at [@Zenchef](https://github.com/zenchef).
 
 _I write on [Medium][tbobm-medium] and [my personal blog][tbobm-blog]._
 
